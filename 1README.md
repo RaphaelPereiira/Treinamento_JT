@@ -10,15 +10,3 @@ Como funciona:
 6. Inferior a 7 deve ser reprovado.
 
 A decisão usa a média calculada antes da formatação para duas casas decimais.
-
-Exemplo de execução:
-
-Digite o nome do aluno: Ana
-Digite a primeira nota: 8
-Digite a segunda nota: 7,5
-Digite a terceira nota: 6
-Digite a quarta nota: 8,5
-
-Aluno: Ana
-Média final: 7,50
-Resultado final: Aprovado
